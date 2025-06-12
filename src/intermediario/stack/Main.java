@@ -21,8 +21,7 @@ public class Main {
         // Temos 4 métods principais para brincar com o stack
 
         // Adicionando elementos na pilha
-        ninjasStack.add("Naruto Uzumaki");
-        // tB Adiciona elementos para a pilha
+        ninjasStack.push("Naruto Uzumaki");
         ninjasStack.push("Sasuke Uchiha");
         ninjasStack.push("Sakura Haruno"); // Último elemento a entrar na pilha
         System.out.println("Minha stack atual: " + ninjasStack);
