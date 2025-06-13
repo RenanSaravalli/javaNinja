@@ -1,4 +1,4 @@
-package intermediario.interfaces;
+package intermediario.a04interfaces;
 
 public class Haruno extends Ninja {
 

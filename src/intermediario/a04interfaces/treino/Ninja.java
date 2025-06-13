@@ -1,4 +1,4 @@
-package intermediario.interfaces.treino;
+package intermediario.a04interfaces.treino;
 
 public interface Ninja {
 

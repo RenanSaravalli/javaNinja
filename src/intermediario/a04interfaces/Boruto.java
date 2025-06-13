@@ -1,4 +1,4 @@
-package intermediario.interfaces;
+package intermediario.a04interfaces;
 // implements -> Acessando essa janela (interface)
 public class Boruto extends Uzumaki implements HyugaUzumaki{
     @Override

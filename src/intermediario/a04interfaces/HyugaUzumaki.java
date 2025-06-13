@@ -1,4 +1,4 @@
-package intermediario.interfaces;
+package intermediario.a04interfaces;
 
 public interface HyugaUzumaki {
     /* Nas interfaces por ser abstrata, um portal, uma janela.

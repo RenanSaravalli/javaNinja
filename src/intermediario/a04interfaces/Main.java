@@ -1,4 +1,4 @@
-package intermediario.interfaces;
+package intermediario.a04interfaces;
 
 public class Main {
     public static void main(String[] args) {
